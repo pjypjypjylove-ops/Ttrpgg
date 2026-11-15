@@ -1,0 +1,30 @@
+{
+  "name": "씬플로우 · TRPG 시나리오 진행기",
+  "short_name": "씬플로우",
+  "description": "코코포리아와 화면 분할해 지문을 복사하고 판정과 엔딩을 관리하는 모바일 TRPG 진행기",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#fff9fb",
+  "background_color": "#fff9fb",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "any",
+  "id": "./",
+  "display_override": [
+    "standalone"
+  ]
+}
